@@ -39,4 +39,5 @@ htmlcov/
 Thumbs.db
 
 # Alembic (keep versions folder)
+alembic/versions/*.pyc
 alembic/versions/*.pyc.env
